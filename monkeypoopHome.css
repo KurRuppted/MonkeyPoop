@@ -1,0 +1,131 @@
+ 
+html {
+    background-color: white;
+    width: 800px;
+}
+
+.title {
+    font-size: 3px;
+    color:brown;
+    font-family: Ninja Naruto;
+    position: relative;
+    left: 10cm;
+    top: 1cm;
+}
+
+.title {
+    transition: 0.8s;
+    transition-delay: 1.5s;
+    font-size: 75px;
+
+}
+
+.welcome {
+    font-size: 3px;
+    color:brown;
+    font-family: Ninja Naruto;
+    position: relative;
+    left: 12cm;
+    top: 1cm;
+}
+
+.welcome {
+    transition: 0.8s;
+    font-size: 40px;
+ 
+}
+
+.storeText {
+    font-size: 3px;
+    color:brown;
+    font-family: NORO;
+    position: relative;
+    left: 15cm;
+    top: 1cm; 
+
+}
+
+.storeText {
+    transition: 0.8s;
+    transition-delay: 2.5s;
+    font-size: 30px;
+
+}
+
+.contact {
+    transition: 0.5s;
+    background: none;
+    border: none;
+    color: black;
+    font-size: 20px;
+    font-family: VCR OSD Mono;
+    position: relative;
+    top: -11cm;
+    left: 8cm;
+}
+
+.contact:hover {
+    transition: 0.5s;
+    color: brown;
+}
+
+.shop {
+    transition: 0.5s;
+    background: none;
+    border: none;
+    color: black;
+    font-size: 20px;
+    font-family: VCR OSD Mono;
+    position: relative;
+    top: -11cm;
+    left: 12cm;
+}
+
+.shop:hover {
+    transition: 0.5s;
+    color: brown;
+}
+
+.about {
+    transition: 0.5s;
+    background: none;
+    border: none;
+    color: black;
+    font-size: 20px;
+    font-family: VCR OSD Mono;
+    position: relative;
+    top: -11cm;
+    left: 16cm;
+}
+
+.about:hover {
+    transition: 0.5s;
+    color: brown;
+}
+
+.icon {
+    position: relative;
+    left: 27cm;
+    top: -1cm;
+}
+
+
+.logo {
+    width: 100px;
+}
+
+.imgpoop {
+    width: 1000px;
+    position: relative;
+    top: 5cm;
+    left: 3cm;
+}
+
+.ac {
+    position: relative;
+    top: 4.5cm;
+    color: brown;
+    left: 14cm;
+    font-family: monospace;
+}
+

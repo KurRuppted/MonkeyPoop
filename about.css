@@ -1,0 +1,23 @@
+html {
+    background-color: white;
+    width: 1000px
+}
+
+.abtproduct {
+    font-size: 1px;
+    position: relative;
+    left: 5cm;
+    font-family: monospace;
+}
+
+.abtproduct {
+    transition: 0.8s;
+    font-size: 75px;
+}
+
+.abtpdt {
+    font-size: 30px;
+    font-family: Kids Rock DEMO;
+    position: relative;
+    left: 5cm;
+}
